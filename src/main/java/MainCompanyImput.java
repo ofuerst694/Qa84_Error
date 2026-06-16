@@ -44,3 +44,19 @@ public class MainCompanyImput {
         return emp;
     }
 }
+/*
+HW
+ArrayList<Product>
+Product
+----------
+name(String)
+code(int)
+price(double)
+
+input ->
+add number products use sreams
+and
+add to list
+
+printLists
+ */
