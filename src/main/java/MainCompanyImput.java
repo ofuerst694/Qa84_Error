@@ -15,6 +15,7 @@ public class MainCompanyImput {
         printCompany(company);
     }
 
+
     private static void printCompany(ArrayList<Employee> company) {
         for (Employee e : company) {
             System.out.println(e);
