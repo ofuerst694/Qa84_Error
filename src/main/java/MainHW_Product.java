@@ -13,6 +13,7 @@ public class MainHW_Product {
 
     }
 
+
     private static ProductHW getProductHW() {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);

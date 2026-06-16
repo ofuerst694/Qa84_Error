@@ -3,6 +3,7 @@ public class ProductHW {
     private int code;
     private double price;
 
+
     @Override
     public String toString() {
         return "ProductHW{" +
